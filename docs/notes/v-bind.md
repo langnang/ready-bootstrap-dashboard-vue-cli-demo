@@ -1,3 +1,0 @@
-# v-bind
-
-v-bind-->
